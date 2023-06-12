@@ -1,0 +1,36 @@
+
+===1º aluno===
+
+Numero de matricula: 1
+
+Nome: carlos
+
+Nota da primeira prova: 10.0
+
+Nota da segunda prova: 9.0
+
+Media: 9.5
+
+Numero de faltas: 2
+
+Situacao (A- Aprovado / R- Reprovado): A
+
+==========//==========
+
+===2º aluno===
+
+Numero de matricula: 2
+
+Nome: vitor
+
+Nota da primeira prova: 2.0
+
+Nota da segunda prova: 3.0
+
+Media: 2.5
+
+Numero de faltas: 21
+
+Situacao (A- Aprovado / R- Reprovado): R
+
+==========//==========
